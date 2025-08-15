@@ -1,8 +1,8 @@
 ![Web Development Banner](https://source.unsplash.com/random/1600x400/?web-development,code)
 
-### Hi there 👋
+### Hi, I am Michael 👋
 
-**Full Stack Developer and Tech Consultant**  
+**Tech Consultant and Full Stack Developer**  
 experienced in working with international teams and clients,  
 seeking a new challenge to build novel **B2C products**
 
