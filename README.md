@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dykoiorgv/image/upload/v1755277431/1755198227159_qfhqu4.jpg" width="600" />
+<img src="https://res.cloudinary.com/dykoiorgv/image/upload/v1755277431/1755198227159_qfhqu4.jpg" width="150" />
 
 ### Hi, I am Michael 👋
 
