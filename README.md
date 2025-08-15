@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dykoiorgv/image/upload/t_banner/v1755277854/1755198227159_pinpu5.jpg" width="600" />
+<img src="https://res.cloudinary.com/dykoiorgv/image/upload/t_banner/v1755277854/1755198227159_pinpu5.jpg" width="900" />
 
 ### Hi, I am Michael 👋
 
